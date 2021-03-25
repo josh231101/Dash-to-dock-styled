@@ -1,4 +1,4 @@
-[<img src="" alt="Dash to dock styled" />](https://wiijosue333.medium.com/style-dash-to-dock-on-linux-90cc3ef833a6)
+[<img src="https://i.ibb.co/4NQrQWd/styled.png" alt="Dash to dock styled" />](https://wiijosue333.medium.com/style-dash-to-dock-on-linux-90cc3ef833a6)
 
 # Dash to dock styled 
 Clean and beauty right?
